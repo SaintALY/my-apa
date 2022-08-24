@@ -5,9 +5,10 @@ function Info() {
   return (
     <div className="Info">
         <img src={amadeus} alt="profile photo" className='info--photo'/>
-        <h1 className='info--head'>Amadeus Hoffmann</h1>
-        <h3 className='info--subhead'>Software Developer</h3>
-        <h5 className='info--text'>Some Text about Website</h5>
+        <p className='info--head'>Amadeus Hoffmann</p>
+        <p className='info--subhead'>Software Developer</p>
+        <p className='info--text'>Some Text about Website</p>
+        <button type="button" className='info--button'>eMail Me</button>
     </div>
   );
 }
