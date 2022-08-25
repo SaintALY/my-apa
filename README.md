@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Business Card React App
+
+Part of the Scrimba Learn React Curse  >>>  https://scrimba.com/learn/learnreact
+
+Deployed here  >>>  https://63065a1addf90903e3c2bad2--brilliant-kitsune-dee9fd.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
